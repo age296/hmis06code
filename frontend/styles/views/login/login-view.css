@@ -1,0 +1,25 @@
+#login-view {
+  display: grid;
+  padding: 2.5em;
+  margin: auto;
+  padding-left: 35%;
+  padding-right: 35%;
+}
+#register-view {
+  display: grid;
+  padding: 2.5em;
+  margin: auto;
+  padding-left: 35%;
+  padding-right: 35%;
+}
+#conf-view {
+  display: grid;
+  padding: 2.5em;
+  margin: auto;
+  padding-left: 35%;
+  padding-right: 35%;
+}
+:host {
+  display: block;
+  padding: var(--lumo-space-m) var(--lumo-space-l);
+}
